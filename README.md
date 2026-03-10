@@ -9,15 +9,15 @@ Sebelum Memasuki Langkah langkah seperti register dan lain lain pada postman, Ki
 1. Buka [Firebase Console](https://console.firebase.google.com/).
     ![alt text](assets/firebase.png)
 2. Buka console 
-    ![alt text](assets/buka console.png)
+    ![alt text](<assets/buka console.png>)
 3. Klik "Add project" untuk membuat proyek baru.
-    ![alt text](assets/buat project baru.png)
+    ![alt text](<assets/buat project baru.png>)
 4. project setting
-    ![alt text](assets/project setting.png)
+    ![alt text](<assets/project setting.png>)
 5. Buat web app
-    ![alt text](assets/buat web app.png)
+    ![alt text](<assets/buat web app.png>)
 6. Catat WEB API KEY karena akan di butuhkan pada langkah langkah di Postman
-   ![alt text](assets/Catat WEB API KEY.png)
+    ![alt text](<assets/Catat WEB API KEY.png>)
    Setelah Menyelesaikan pembuatan Project pada Firebase, Selanjutnya kita mulai langkah langkah yang dilakukan pada Postman: Langkah 1 (Register):
 
 1. Buka tab baru di Postman.
