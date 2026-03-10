@@ -7,13 +7,13 @@ Sebelum Memasuki Langkah langkah seperti register dan lain lain pada postman, Ki
 1. Buka [Firebase Console](https://console.firebase.google.com/).
     ![alt text](firebase.png)
 2. Buka console 
-    ![alt text](buka console.png)
+    ![alt text](<buka console.png>)
 3. Klik "Add project" untuk membuat proyek baru.
-    ![alt text](buat project baru.png)
+    ![alt text](<buat project baru.png>)
 4. project setting
-    ![alt text](project setting.png)
+    ![alt text](<project setting.png>)
 5. Buat web app
-    ![alt text](buat web app.png)
+    ![alt text](<buat web app.png>)
 6. Catat WEB API KEY karena akan di butuhkan pada langkah langkah di Postman
-   ![alt text](Catat WEB API KEY.png)
+   ![alt text](<Catat WEB API KEY.png>)
 
